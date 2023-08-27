@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F2AD-34EF
+
+ Directory of C:\Users\kadra\diyetisyenProje
+
+27.10.2022  12:35    <DIR>          .
+27.10.2022  12:33    <DIR>          ..
+23.08.2022  22:25    <DIR>          diyetisyenProje
+12.01.2022  21:41             1.436 diyetisyenProje.sln
+27.10.2022  12:35                 0 dosya.txt
+02.03.2022  00:05    <DIR>          Setup1
+27.10.2022  12:34               551 sonuc.txt
+22.08.2022  00:45            15.831 UpgradeLog.htm
+               4 File(s)         17.818 bytes
+               4 Dir(s)  41.969.639.424 bytes free
